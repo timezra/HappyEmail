@@ -1,0 +1,5 @@
+<html>
+    <body>
+        <h3>Boldog születésnapot, ${email.recipient.lastName} ${email.recipient.firstName}!</h3>
+    </body>
+</html>

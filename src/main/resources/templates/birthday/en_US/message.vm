@@ -1,0 +1,5 @@
+<html>
+    <body>
+        <h3>Happy birthday, ${email.recipient.firstName} ${email.recipient.lastName}!</h3>
+    </body>
+</html>
