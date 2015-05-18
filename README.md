@@ -10,15 +10,15 @@ In order to build and deploy this service, you will need to drop an application.
 ```properties
 timezra.samples.happy_email.Emailer.from=timezra@gmail.com
 
-timezra.samples.happy\_email.PrimaryMailSender.host=smtp.mailgun.org
-timezra.samples.happy\_email.PrimaryMailSender.port=587
-timezra.samples.happy\_email.PrimaryMailSender.username=<YOUR_MAILGUN_USERNAME>
-timezra.samples.happy\_email.PrimaryMailSender.password=<YOUR_MAILGUN_PASSWORD>
+timezra.samples.happy_email.PrimaryMailSender.host=smtp.mailgun.org
+timezra.samples.happy_email.PrimaryMailSender.port=587
+timezra.samples.happy_email.PrimaryMailSender.username=<YOUR_MAILGUN_USERNAME>
+timezra.samples.happy_email.PrimaryMailSender.password=<YOUR_MAILGUN_PASSWORD>
 
-timezra.samples.happy\_email.SecondaryMailSender.host=smtp.mandrillapp.com
-timezra.samples.happy\_email.SecondaryMailSender.port=587
-timezra.samples.happy\_email.SecondaryMailSender.username=<YOUR_MANDRILLA_USERNAME>
-timezra.samples.happy\_email.SecondaryMailSender.password=<YOUR_MANDRILLA_PASSWORD>
+timezra.samples.happy_email.SecondaryMailSender.host=smtp.mandrillapp.com
+timezra.samples.happy_email.SecondaryMailSender.port=587
+timezra.samples.happy_email.SecondaryMailSender.username=<YOUR_MANDRILLA_USERNAME>
+timezra.samples.happy_email.SecondaryMailSender.password=<YOUR_MANDRILLA_PASSWORD>
 ```
 
 Usage:
