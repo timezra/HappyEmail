@@ -31,7 +31,7 @@ You can access the restful endpoints using any HTTP client
 * URL: http://localhost:8080/email/birthday
 * Params: locale \[Optional\] \(currently only en\_US and hu\_HU are supported\)
 * Method: POST
-* BODY:
+* Body:
 ```json
 {
     "firstName": "Tim",
