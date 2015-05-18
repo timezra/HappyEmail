@@ -29,7 +29,7 @@ You can access the restful endpoints using any HTTP client
 
 #### Send Happy Birthday Email
 * URL: http://localhost:8080/email/birthday
-* Params: locale [Optional] (currently only en\_US and hu\_HU are supported)
+* Params: locale \[Optional\] \(currently only en\_US and hu\_HU are supported\)
 * Method: POST
 * BODY:
 ```json
@@ -43,7 +43,7 @@ You can access the restful endpoints using any HTTP client
 
 #### Send Happy Holidays Email
 * URL: http://localhost:8080/email/holidays
-* Params: locale [Optional] (currently only en\_US and hu\_HU are supported)
+* Params: locale \[Optional\] \(currently only en\_US and hu\_HU are supported\)
 * Method: POST
 * Body:
 ```json
