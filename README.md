@@ -1,4 +1,4 @@
-Happy Email [![Build Status](https://travis-ci.org/timezra/happy_email.png)](https://travis-ci.org/timezra/happy_email)
+Happy Email [![Build Status](https://travis-ci.org/timezra/HappyEmail.png)](https://travis-ci.org/timezra/HappyEmail)
 ===============================================
 
 An API endpoint that accepts first name, last name, and email address (JSON encoded) to generate either a happy birthday or a happy holidays email. This service is able to send this email to the recipient using one of two third party providers. It provides an abstraction between two different email service providers. If one of the services goes down, this service fails over to a different provider without affecting customers.
